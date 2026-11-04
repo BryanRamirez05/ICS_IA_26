@@ -1,0 +1,7 @@
+1-Haz una pagina parecida a esta, con las mismas secciones pero acerca de cine, con una paleta de colores azulada, con iconos de cine y demas cambios que veas necesarios. Solo con css y html, en archivos distintos.
+Dime solo el codigo, no generes archivos.
+
+2-Añade un programa Javascript que al hacer clic sobre cada una de las tres tarjetas nos muestre un mensaje con la descripción de la misma.
+
+
+CHATGPT
